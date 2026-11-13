@@ -13,3 +13,17 @@ My first GitHub learning project.
 ## Projects
 
 This repository is used for learning and practicing GitHub.
+
+## Git Notes
+
+### What is a branch?
+
+A branch is an independent development line.
+
+It allows developers to work on new features
+without directly changing the main branch.
+
+### What is a commit?
+
+A commit records a snapshot of changes
+in the repository.
